@@ -1,1 +1,1 @@
-
+This chatbot mimics basic AI decision-making by applying rule-based logic to analyze cryptocurrency data. It evaluates profitability using price trends and market cap, while also considering sustainability factors like energy use and eco-scores. Through predefined rules, the chatbot provides tailored investment advice, demonstrating AI’s role in financial decision support.
